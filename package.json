@@ -1,0 +1,26 @@
+{
+  "name": "zedbot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faris-amer/zedbot-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faris-amer/zedbot-js/issues"
+  },
+  "homepage": "https://github.com/faris-amer/zedbot-js#readme",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.47.0"
+  }
+}
